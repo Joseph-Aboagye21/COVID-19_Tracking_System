@@ -1,4 +1,4 @@
-package com.developer.arsltech.covid_19tracker;
+package com.developer.ajtech.tracker_covid_19;
 
 import androidx.appcompat.app.AppCompatActivity;
 

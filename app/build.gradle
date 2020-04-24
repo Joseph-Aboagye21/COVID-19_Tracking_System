@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.developer.arsltech.covid_19tracker"
+        applicationId "com.developer.ajtech.tracker_covid_19"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
